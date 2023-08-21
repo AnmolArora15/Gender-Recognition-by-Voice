@@ -12,10 +12,14 @@ The column label(Target Feature) is also present in the dataset which has two va
 This is the data that we have to predict for future samples.
 
 The dataset is divided into two parts: **Train, and Test sets.**
+
 **Train Set:**
+
 The train set contains 2851 rows and 22 columns.
 The last column label is the target variable.
+
 **Test Set:**
+
 The test set contains 317 rows and 21 columns.
 The test set doesn’t contain the label column.
 It needs to be predicted for the test set.
