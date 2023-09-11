@@ -34,9 +34,9 @@ Voice-Based Gender User Tracking for Telecom Company XYZ is an innovative soluti
 
 ### Project Deliverables
 
-- Deliverable: Gender prediction using voice.
-- Machine Learning Task: Classification
-- Target Variable: label
+- **Deliverable**: Gender prediction using voice.
+- **Machine Learning Task**: Classification
+- **Target Variable**: label(Male/Female)
 
 ## Installing & Importing Libraries
 
