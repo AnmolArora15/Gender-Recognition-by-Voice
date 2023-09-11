@@ -143,6 +143,8 @@ We have deployed the following models:
 | Random Forest          | 1.0        | 0.984     |
 | Random Forest with PCA | 1.0        | 0.992     |
 
+![Decision Tree Split](https://github.com/AnmolArora15/Gender-Recognition-by-Voice/blob/main/Images/DT%20Split.png)
+
 ## Acknowledgments
 Special thanks to @Accredian for helping me in the Code.
 
