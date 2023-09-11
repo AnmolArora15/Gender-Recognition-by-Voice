@@ -1,7 +1,7 @@
 # Gender Recognition by Voice
 ![Gender](https://github.com/AnmolArora15/Gender-Recognition-by-Voice/blob/main/Images/image%201.png)
 
-Voice-Based Gender User Tracking for Telecom Company XYZ is an innovative solution designed to automate the process of tracking and categorizing the gender of Telecom Company XYZ based on their voice samples. As the user count continues to grow, manually categorizing users has become a tedious and time-consuming task. To streamline this process, we've developed a machine learning model that leverages **Random Forest with Principal Component Analysis (PCA) achieved the highest accuracy in gender recognition.**
+Voice-Based Gender User Tracking for Telecom Company XYZ is an innovative solution designed to automate the process of tracking and categorizing the gender of the users based on their voice samples. As the user count continues to grow, manually categorizing users has become a tedious and time-consuming task. To streamline this process, we've developed a machine learning model that leverages **Random Forest with Principal Component Analysis (PCA) achieved the highest accuracy in gender recognition.**
 
 ## Table of Contents
 
